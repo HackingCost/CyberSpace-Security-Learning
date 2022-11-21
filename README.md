@@ -133,7 +133,7 @@
 
 
 # Bypass 
-
+- [Bypass linux bash限制](https://book.hacktricks.xyz/linux-hardening/bypass-bash-restrictions)
 
 
 
