@@ -117,8 +117,8 @@
 
 # 红队tips
 
-[safe6Sec/command: 红队常用命令速查 (github.com)](https://github.com/safe6Sec/command)
-
+- [safe6Sec/command: 红队常用命令速查 (github.com)](https://github.com/safe6Sec/command)
+- [外网快速打点方法技巧总结](https://github.com/biggerduck/RedTeamNotes/blob/main/%E7%BA%A2%E9%98%9F%E5%9F%BA%E6%93%8D2-%E5%A4%96%E7%BD%91%E5%BF%AB%E9%80%9F%E6%89%93%E7%82%B9%E6%96%B9%E6%B3%95%26%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93.pdf)
 
 
 # 应急响应
@@ -141,4 +141,4 @@
 
 
 # 杂记
-
+- [2022大赛结束语-再谈钓鱼.pdf](https://github.com/biggerduck/RedTeamNotes/blob/main/2022%E5%A4%A7%E8%B5%9B%E7%BB%93%E6%9D%9F%E8%AF%AD-%E5%86%8D%E8%B0%88%E9%92%93%E9%B1%BC.pdf)
