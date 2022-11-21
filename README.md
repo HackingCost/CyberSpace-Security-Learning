@@ -108,7 +108,10 @@
 
 - [云安全资源 | T Wiki (teamssix.com)](https://wiki.teamssix.com/cloudsecurityresources/)
 
-
+## 工具
+- [https://github.com/RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu)
+- https://github.com/HXSecurity/TerraformGoat
+- https://github.com/Eilonh/s3crets_scanner
 
 
 
@@ -120,6 +123,11 @@
 
 # 应急响应
 
+- [应急响应实战笔记](https://github.com/Bypass007/Emergency-Response-Notes)
+
+
+## 工具
+- [Windows Emergency Response （应急响应信息采集）](https://github.com/ra66itmachine/GetInfo)
 
 
 
