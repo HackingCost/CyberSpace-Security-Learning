@@ -135,6 +135,8 @@
 # Bypass 
 - [Bypass linux bash限制](https://book.hacktricks.xyz/linux-hardening/bypass-bash-restrictions)
 
+## 工具
+- [Bash 混淆框架](https://github.com/Bashfuscator/Bashfuscator)
 
 
 
