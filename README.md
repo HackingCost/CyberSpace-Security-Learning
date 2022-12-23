@@ -126,7 +126,7 @@
 
 ## 工具
 - [https://github.com/RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu)
-- https://github.com/HXSecurity/TerraformGoat
+- https://github.com/teamssix/cf
 - https://github.com/Eilonh/s3crets_scanner
 
 
