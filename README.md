@@ -115,6 +115,15 @@
 
 - [云安全资源 | T Wiki (teamssix.com)](https://wiki.teamssix.com/cloudsecurityresources/)
 
+- [k8s安全 入门学习](https://www.const27.com/2022/03/13/k8s%E5%AE%89%E5%85%A8%20%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0/)
+
+
+## 云靶场
+
+- https://github.com/HXSecurity/TerraformGoat
+- https://github.com/Metarget/metarget
+
+
 ## 工具
 - [https://github.com/RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu)
 - https://github.com/HXSecurity/TerraformGoat
