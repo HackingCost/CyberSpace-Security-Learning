@@ -20,6 +20,7 @@
     - [SQL注入](#sql注入)
     - [XXE](#xxe)
     - [XXS](#xss)
+    - [SSRF](#ssrf)
 - [内网攻防](#内网攻防)
     - [Windows域](#windows域)
 - [云安全](#云安全)
@@ -86,6 +87,10 @@
 - [一些BAT的XSS实例（四）高级篇 - 先知社区 (aliyun.com)](https://xz.aliyun.com/t/11705)
 - [一些BAT的XSS实例（五）最终篇 - 先知社区 (aliyun.com)](https://xz.aliyun.com/t/11790)
 - ...
+
+## SSRF
+
+- [从一文中了解SSRF的各种绕过姿势及攻击思路](https://tttang.com/archive/1648/)
 
 
 
