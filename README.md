@@ -21,6 +21,7 @@
     - [XXE](#xxe)
     - [XXS](#xss)
     - [SSRF](#ssrf)
+    - [CORS](#cors)
 - [内网攻防](#内网攻防)
     - [Windows域](#windows域)
 - [App&小程序](#app小程序)
@@ -93,6 +94,9 @@
 
 - [从一文中了解SSRF的各种绕过姿势及攻击思路](https://tttang.com/archive/1648/)
 
+## CORS
+
+- [CORS跨域资源共享漏洞的复现、分析、利用及修复过程](https://mp.weixin.qq.com/s/PSU8T-IO3mAz4MEVvAeUug)
 
 
 # 内网攻防
